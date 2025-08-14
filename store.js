@@ -22,7 +22,7 @@ class Order {
 }
 
 // 🛒 Create a new order instance
-const order = new Order([['sunglasses', 1], ['bags', 2]]);
+const order = new Order([['sunscreen, 1], ['bags', 2]]);
 
 console.log('Initial Credit Card Balance: ' + order.getFormattedBalance());
 
