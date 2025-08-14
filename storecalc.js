@@ -1,6 +1,6 @@
 // ✅ File B: rg.js
 const store = {
-  sunglasses: {
+  sunscreen: {
     inventory: 817,
     cost: 9.99
   },
