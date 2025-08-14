@@ -1,4 +1,4 @@
-const { checkInventory, processPayment, shipOrder } = require('./rg.js');
+const { checkInventory, processPayment, shipOrder } = require('./storeclac.js');
 
 // 🧱 Define the Order class
 class Order {
